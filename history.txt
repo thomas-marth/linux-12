@@ -1,0 +1,205 @@
+    1  git
+    2  npm install --global --production windows-build-tools
+    3  npm install --global --production windows-build-tools
+    4  npm run dev
+    5  npm install
+    6  npm run dev
+    7  npm i
+    8  npm run dev
+    9  npm run dev
+   10  npm run dev
+   11  node index.js
+   12  node -v
+   13  npm -v
+   14  node -v
+   15  pwd
+   16  pwd
+   17  ls
+   18  pwd
+   19  ls
+   20  cd /OneDrive
+   21  cd OneDrive
+   22  ls
+   23  cd projects
+   24  cd 'Рабочий стол'
+   25  ды
+   26  ld
+   27  ls
+   28  cd projects
+   29  ls
+   30  cd practice-handlebars
+   31  ls
+   32  git status
+   33  git init
+   34  git config user.name "Dmitriy"
+   35  git status
+   36  git add
+   37  git add .
+   38  git status
+   39  git commit 'initial commit'
+   40  git commit "initial commit"
+   41  git commit
+   42  pwd
+   43  pwd
+   44  git status
+   45  git commit -m
+   46  git commit
+   47  pwd
+   48  git commit -m "init commit"
+   49  git status
+   50  git log
+   51  git revert 7c359b097eb9235c803f5b855a53ef689e622fa6
+   52  git checkout
+   53  git checkout 7c359b097eb9235c803f5b855a53ef689e622fa6
+   54  git status
+   55  npm install -g n
+   56  npm uninstall -g create-react-app
+   57  npm cache clean -f
+   58  exit
+   59  pwd
+   60  ls
+   61  exit
+   62  pwd
+   63  ls
+   64  cd OneDrive
+   65  pwd
+   66  ls
+   67  cd Рабочий стол
+   68  cd 'Рабочий стол'
+   69  pwd
+   70  ls
+   71  cd ..
+   72  cd ..
+   73  pwd
+   74  cd ~
+   75  pwd
+   76  ls
+   77  clear
+   78  exit
+   79  git -v
+   80  git --version
+   81  man
+   82  git -v
+   83  exit
+   84  ls
+   85  ssh-keygen -C dmitriy.bazhenov@gmail.com
+   86  ssh-keygen -C dmitriy.bazhenov@gmail.com
+   87  ssh ec2-user@linux.itcareerhub.de
+   88  ec2-user@linux.itcareerhub.de: Permission denied (publickey,gssapi-keyex,gssapi-with-mic).
+   89  [200~ssh ec2-user@linux.itcareerhub.de
+   90  ssh ec2-user@linux.itcareerhub.de ec2-user@linux.itcareerhub.de: Permission denied (publickey,gssapi-keyex,gssapi-with-mic).
+   91  ssh ec2-user@linux.itcareerhub.de ec2-user@linux.itcareerhub.de
+   92  ssh ec2-user@linux.itcareerhub.de
+   93  ssh ec2-user@linux.itcareerhub.de ec2-user@linux.itcareerhub.de
+   94  ssh ec2-user@linux.itcareerhub.de ec2-user@linux.itcareerhub.de: Permission denied (publickey,gssapi-keyex,gssapi-with-mic)
+   95  ssh ec2-user@linux.itcareerhub.de ec2-user@linux.itcareerhub.de: Permission denied (publickey,gssapi-keyex,gssapi-with-mic).
+   96  ec2-user@linux.itcareerhub.de: Permission denied (publickey,gssapi-keyex,gssapi-with-mic).
+   97  ssh ec2-user@linux.itcareerhub.de: Permission denied (publickey,gssapi-keyex,gssapi-with-mic).
+   98  ssh ec2-user@linux.itcareerhub.de: Permission denied (publickey,gssapi-keyex,gssapi-with-mic).
+   99  ssh ec2-user@linux.itcareerhub.de
+  100  ls -al
+  101  scp ec2-user@linux.itcareerhub.de:/opt/280225-wdm/dmitriy_b/test.txt /'Мои документы'
+  102  ls -al /'Мои документы'
+  103  scp ec2-user@linux.itcareerhub.de:/opt/280225-wdm/dmitriy_b/test.txt /Videos
+  104  scp ec2-user@linux.itcareerhub.de:/opt/280225-wdm/dmitriy_b/test.txt /Documents
+  105  scp ec2-user@linux.itcareerhub.de:/opt/280225-wdm/dmitriy_b/test.txt /Downloads
+  106  scp ec2-user@linux.itcareerhub.de:/opt/280225-wdm/dmitriy_b/test.txt Downloads
+  107  ssh ec2-user@linux.itcareerhub.de
+  108  export ICH=ssh ec2-user@linux.itcareerhub.de
+  109  export ICH=ssh_ec2-user@linux.itcareerhub.de
+  110  echo $ICH
+  111  $ICH
+  112  unset $ICH
+  113  echo $ICH
+  114  unset ICH
+  115  echo $ICH
+  116  export ICH=ec2-user@linux.itcareerhub.de
+  117  echo $ICH
+  118  ssh $ICH
+  119  unset ICH
+  120  echo $ICH
+  121  export ICH="ssh ec2-user@linux.itcareerhub.de"
+  122  echo $ICH
+  123  $ICH
+  124  $ICH
+  125  export MY_GROUP=/opt/280225-wdm
+  126  echo MY_GROUP
+  127   $MY_GROUP
+  128  $ICH
+  129  unset MY_GROUP
+  130  echo MY_GROUP
+  131  pwd
+  132  $ICH
+  133  echo $ICH
+  134  export ICH="ssh ec2-user@linux.itcareerhub.de"
+  135  echo $ICH
+  136  $ICH
+  137  $ICH
+  138  ls -al
+  139  scp ec2-user@linux.itcareerhub.de:/opt/280225-wdm/dmitriy_b/.process_management /c/Users/dmitr/Documents/
+  140  env
+  141  git -v
+  142  git config --global -l
+  143  mkdir -p test
+  144  git init
+  145  git add .
+  146  git commit -m "Commit"
+  147  git remote add origin git@github.com:thomas-marth/Todos-project.git
+  148  git branch -M main
+  149  git push -u origin main
+  150  git push -u origin main
+  151  git pull origin main --allow-unrelated-histories
+  152  git pull origin main --allow-unrelated-histories
+  153  git push -u origin main
+  154  mkdir git-branch
+  155  cd git-branch
+  156  git init
+  157  git checkout -b gitignore
+  158  touch .gitignore
+  159  git add .gitignore
+  160  git commit -m "Add file .gitignore"
+  161  git remote add origin git@github.com:thomas-marth/git-branch.git
+  162  git push -u origin gitignore
+  163  nvm install node
+  164  node -v
+  165  ssh $ICH
+  166  $ICH
+  167  exit
+  168  $ICH
+  169  ssh ec2-user@linux.itcareerhub.de
+  170  scp ec2-user@linux.itcareerhub.de:/opt/280225-wdm/dmitriy_b/permissiom_checker.sh /c/Users/dmitr/Documents/
+  171  ssh ec2-user@linux.itcareerhub.de
+  172  scp ec2-user@linux.itcareerhub.de:/opt/280225-wdm/dmitriy_b/permissiom_checker.sh /c/Users/dmitr/Documents/
+  173  scp ec2-user@linux.itcareerhub.de:/opt/280225-wdm/dmitriy_b/test.txt /c/Users/dmitr/Documents/
+  174  ssh ec2-user@linux.itcareerhub.de
+  175  scp ec2-user@linux.itcareerhub.de:/opt/280225-wdm/dmitriy_b/permissiom_checker.sh /c/Users/dmitr/Documents/
+  176  scp ec2-user@linux.itcareerhub.de:/opt/280225-wdm/dmitriy_b/permission_checker.sh /c/Users/dmitr/Documents/
+  177  git clone git@github.com:thomas-marth/linux-12.git
+  178  cd ..
+  179  git clone git@github.com:thomas-marth/linux-12.git
+  180  cd linux-12
+  181  nano .gitignore
+  182  git checkaut -b feature
+  183  git checkout -b feature
+  184  nano .gitignore
+  185  nano README.md
+  186  git add .
+  187  git commit -m "Добавлены README.md и .gitignore"
+  188  git push origin feature
+  189  git commit --amend -m "Добавлены README.md и .gitignore (ammend)"
+  190  git checkout main
+  191  git checkout -b main
+  192  git checkout feature
+  193  git clone git@github.com:thomas-marth/linux-12.git
+  194  git checkout -b feature
+  195  cd linux-12
+  196  git checkout -b feature
+  197  nano README.md
+  198  nano .gitignore
+  199  git add .
+  200  git commit -m "Добавлен README.md и внесены изменения в .gitignore"
+  201  git push origin feature
+  202  git commit --amend -m "Добавлен README.md и внесены изменения в .gitignore (ammend)"
+  203  git checkout main
+  204  git merge feature
+  205  history > history.txt
