@@ -1,13 +1,14 @@
-   1  git clone git@github.com:thomas-marth/linux-12.git
-   2  git checkout -b feature
-   3  cd linux-12
-   4  git checkout -b feature
-   5  nano README.md
-   6  nano .gitignore
-   7  git add .
-   8  git commit -m "Добавлен README.md и внесены изменения в .gitignore"
-   9  git push origin feature
-  10  git commit --amend -m "Добавлен README.md и внесены изменения в .gitignore (ammend)"
-  11  git checkout main
-  12  git merge feature
-  13  history > history.txt
+    1  cd Linux  
+    2  git clone git@github.com:thomas-marth/linux-12.git
+    3  git checkout -b feature
+    4  cd linux-12
+    5  git checkout -b feature
+    6  nano README.md
+    7  nano .gitignore
+    8  git add .
+    9  git commit -m "Добавлен README.md и внесены изменения в .gitignore"
+   10  git push origin feature
+   11  git commit --amend -m "Добавлен README.md и внесены изменения в .gitignore (ammend)"
+   12  git checkout main
+   13  git merge feature
+   14  history > history.txt
